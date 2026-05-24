@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pengaduan Tasikmalaya",
+  "description": "Aplikasi pengaduan kerusakan fasilitas umum kota Tasikmalaya dengan pelacakan status real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
